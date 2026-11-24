@@ -1,0 +1,28 @@
+# Binarios y carpetas de compilacion
+target/
+*.class
+*.jar
+*.war
+
+# Node & Frontend
+node_modules/
+dist/
+.vite/
+
+# Logs y temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Playwright & Scripts temporales
+__pycache__/
+*.pyc
